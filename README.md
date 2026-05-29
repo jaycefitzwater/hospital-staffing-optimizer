@@ -49,6 +49,7 @@ The solver naturally minimizes senior nurses where possible since junior nurses 
 - Healthcare operations domain knowledge
 
 **2. Run the model:**
+python hospital_staffing.py
 
 **3. Expected output:**
 Status: Optimal
